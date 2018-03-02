@@ -1,5 +1,6 @@
 <keymap version="1" name="MySetting" parent="Mac OS X 10.5+">
   <action id="BaseOnThisFunction" />
+  <action id="Debug" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -7,6 +8,10 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="meta down" />
