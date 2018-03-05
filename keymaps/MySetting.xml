@@ -1,6 +1,7 @@
 <keymap version="1" name="MySetting" parent="Mac OS X 10.5+">
   <action id="BaseOnThisFunction" />
   <action id="Debug" />
+  <action id="DecrementWindowHeight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -13,14 +14,41 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorScrollBottom">
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="EditorScrollTop">
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta end" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta home" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
+  <action id="IncrementWindowHeight" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift ctrl meta down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift ctrl meta up" />
+  </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl alt tab" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
