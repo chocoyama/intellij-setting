@@ -1,0 +1,13 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="CloudFoundry" type="cloudfoundry">
+      <configuration email="takyokoy@yahoo-corp.jp" password="Rasp201805berr1969">
+        <option name="apiUrl" value="https://api.system.dev01.ssk.cfm.yahoo.co.jp" />
+        <option name="domain" value="" />
+        <option name="organization" value="shp-order" />
+        <option name="space" value="hiyori" />
+        <option name="trustSelfSignedCert" value="true" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
