@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="playground" type="PHP" />
       <mapping ext="hosted" type="PLAIN_TEXT" />
+      <mapping pattern="Dangerfile" type="Ruby" />
+      <removed_mapping ext="gemspec" approved="true" type="Ruby" />
     </extensionMap>
   </component>
 </application>
