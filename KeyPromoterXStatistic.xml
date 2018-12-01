@@ -6,7 +6,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -15,6 +15,14 @@
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Logcat">
+        <Item>
+          <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
+          <ShortCut>'⌘6'</ShortCut>
+          <Description>Logcat</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -49,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'YAuction'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -62,7 +78,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -95,6 +111,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'YAuction'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌥F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
