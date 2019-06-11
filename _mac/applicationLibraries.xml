@@ -11,15 +11,15 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-4.2.10/lib" />
       </SOURCES>
     </library>
-    <library name="activesupport (v4.2.10, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="activesupport (v4.2.11, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-4.2.10/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-4.2.11/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-4.2.10/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-4.2.11/lib" />
       </SOURCES>
     </library>
     <library name="addressable (v2.5.2, ruby-2.3.3-p222) [gem]" type="rubylib">
@@ -60,23 +60,23 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.2/bin" />
       </excluded>
     </library>
-    <library name="atomos (v0.1.2, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="atomos (v0.1.3, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.2/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.2/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.3/lib" />
       </SOURCES>
       <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.2/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.3/bin" />
       </excluded>
     </library>
-    <library name="atomos (v0.1.3, ruby-2.3.3-p222) [gem]" type="rubylib">
+    <library name="atomos (v0.1.3, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
@@ -180,15 +180,26 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/CFPropertyList-2.3.6/lib" />
       </SOURCES>
     </library>
-    <library name="CFPropertyList (v2.3.6, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="CFPropertyList (v3.0.0, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/CFPropertyList-2.3.6/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/CFPropertyList-3.0.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/CFPropertyList-2.3.6/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/CFPropertyList-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="CFPropertyList (v3.0.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/CFPropertyList-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/CFPropertyList-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="claide (v1.0.2, ruby-2.3.3-p222) [gem]" type="rubylib">
@@ -229,39 +240,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.3.1/bin" />
       </excluded>
     </library>
-    <library name="cocoapods (v1.3.1, ruby-2.3.7-p456) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.3.1/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.3.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.3.1/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.3.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.3.1/bin" />
-      </excluded>
-    </library>
     <library name="cocoapods (v1.5.0, ruby-2.3.3-p222) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.0/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.0/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.0/bin" />
-      </excluded>
-    </library>
-    <library name="cocoapods (v1.5.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
@@ -320,29 +299,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-core-1.3.1/lib" />
       </SOURCES>
     </library>
-    <library name="cocoapods-core (v1.3.1, ruby-2.3.7-p456) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-core-1.3.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-core-1.3.1/lib" />
-      </SOURCES>
-    </library>
     <library name="cocoapods-core (v1.5.0, ruby-2.3.3-p222) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-core-1.5.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-core-1.5.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="cocoapods-core (v1.5.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
@@ -386,17 +343,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-deintegrate-1.0.1/lib" />
       </SOURCES>
     </library>
-    <library name="cocoapods-deintegrate (v1.0.1, ruby-2.3.7-p456) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-deintegrate-1.0.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-deintegrate-1.0.1/lib" />
-      </SOURCES>
-    </library>
     <library name="cocoapods-deintegrate (v1.0.2, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -430,17 +376,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.1.3/lib" />
       </SOURCES>
     </library>
-    <library name="cocoapods-downloader (v1.1.3, ruby-2.3.7-p456) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.1.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.1.3/lib" />
-      </SOURCES>
-    </library>
     <library name="cocoapods-downloader (v1.2.0, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -452,15 +387,15 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.2.0/lib" />
       </SOURCES>
     </library>
-    <library name="cocoapods-downloader (v1.2.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="cocoapods-downloader (v1.2.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.2.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.2.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.2.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.2.2/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-plugins (v1.0.0, ruby-2.3.3-p222) [gem]" type="rubylib">
@@ -575,20 +510,20 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.0/spec" />
       </excluded>
     </library>
-    <library name="cocoapods-trunk (v1.3.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="cocoapods-trunk (v1.3.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.0/lib" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.0/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.1/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.0/lib" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.0/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.1/spec" />
       </SOURCES>
       <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.0/spec" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.1/spec" />
       </excluded>
     </library>
     <library name="cocoapods-try (v1.1.0, ruby-2.3.3-p222) [gem]" type="rubylib">
@@ -701,16 +636,21 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
     </library>
-    <library name="concurrent-ruby (v1.0.5, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="concurrent-ruby (v1.1.4, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.0.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.4/ext" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.0.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.4/ext" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.4/lib" />
       </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.4/ext" />
+      </excluded>
     </library>
     <library name="declarative (v0.0.10, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
@@ -1193,23 +1133,23 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.0.3/bin" />
       </excluded>
     </library>
-    <library name="gh_inspector (v1.0.3, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="gh_inspector (v1.1.3, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.0.3/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.0.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.1.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.1.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.0.3/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.0.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.1.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.1.3/lib" />
       </SOURCES>
       <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.0.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.1.3/bin" />
       </excluded>
     </library>
-    <library name="gh_inspector (v1.1.3, ruby-2.3.3-p222) [gem]" type="rubylib">
+    <library name="gh_inspector (v1.1.3, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
@@ -1383,23 +1323,23 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.1/gemfiles" />
       </excluded>
     </library>
-    <library name="i18n (v0.9.1, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="i18n (v0.9.5, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.1/lib" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.1/test" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.1/gemfiles" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.1/lib" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.1/test" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.1/gemfiles" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/gemfiles" />
       </SOURCES>
       <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.1/test" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.1/gemfiles" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/gemfiles" />
       </excluded>
     </library>
     <library name="io-console (v0.4.5, ruby-2.3.3-p222) [gem]" type="rubylib">
@@ -1442,6 +1382,40 @@
       </SOURCES>
       <excluded>
         <root url="file:///usr/lib/ruby/2.3.0/json/add" />
+      </excluded>
+    </library>
+    <library name="json (v2.1.0, ruby-2.3.3-p222) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/ext" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/data" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/java" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/tests" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/tools" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/diagrams" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/ext" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/data" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/java" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/tests" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/tools" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/diagrams" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/references" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/ext" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/data" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/java" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/tests" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/tools" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/diagrams" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/json-2.1.0/references" />
       </excluded>
     </library>
     <library name="jwt (v2.1.0, ruby-2.3.3-p222) [gem]" type="rubylib">
@@ -1605,22 +1579,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.5.7/spec" />
       </excluded>
     </library>
-    <library name="molinillo (v0.5.7, ruby-2.3.7-p456) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.5.7/lib" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.5.7/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.5.7/lib" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.5.7/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.5.7/spec" />
-      </excluded>
-    </library>
     <library name="molinillo (v0.6.5, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1632,15 +1590,15 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.6.5/lib" />
       </SOURCES>
     </library>
-    <library name="molinillo (v0.6.5, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="molinillo (v0.6.6, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.6.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.6.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.6.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.6.6/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.13.1, ruby-2.3.3-p222) [gem]" type="rubylib">
@@ -1697,22 +1655,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.3/bin" />
       </excluded>
     </library>
-    <library name="nanaimo (v0.2.3, ruby-2.3.7-p456) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.3/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.3/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.3/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.3/bin" />
-      </excluded>
-    </library>
     <library name="nanaimo (v0.2.5, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1729,23 +1671,23 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.5/bin" />
       </excluded>
     </library>
-    <library name="nanaimo (v0.2.5, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="nanaimo (v0.2.6, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.5/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.6/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.5/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.6/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.6/lib" />
       </SOURCES>
       <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.5/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.6/bin" />
       </excluded>
     </library>
-    <library name="nanaimo (v0.2.6, ruby-2.3.3-p222) [gem]" type="rubylib">
+    <library name="nanaimo (v0.2.6, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
@@ -2240,15 +2182,15 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby-macho-1.1.0/lib" />
       </SOURCES>
     </library>
-    <library name="ruby-macho (v1.1.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="ruby-macho (v1.3.1, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby-macho-1.1.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby-macho-1.3.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby-macho-1.1.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby-macho-1.3.1/lib" />
       </SOURCES>
     </library>
     <library name="rubyzip (v1.2.2, ruby-2.3.3-p222) [gem]" type="rubylib">
@@ -2592,20 +2534,20 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.4/test" />
       </excluded>
     </library>
-    <library name="tzinfo (v1.2.4, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="tzinfo (v1.2.5, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.4/lib" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.4/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.5/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.4/lib" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.4/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.5/test" />
       </SOURCES>
       <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.4/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.5/test" />
       </excluded>
     </library>
     <library name="uber (v0.1.0, ruby-2.3.3-p222) [gem]" type="rubylib">
@@ -2713,22 +2655,6 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.4/bin" />
       </excluded>
     </library>
-    <library name="xcodeproj (v1.5.4, ruby-2.3.7-p456) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.4/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.4/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.4/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.4/bin" />
-      </excluded>
-    </library>
     <library name="xcodeproj (v1.5.7, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -2745,23 +2671,23 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.7/bin" />
       </excluded>
     </library>
-    <library name="xcodeproj (v1.5.7, ruby-2.3.7-p456) [gem]" type="rubylib">
+    <library name="xcodeproj (v1.7.0, ruby-2.3.3-p222) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.7/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.7.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.7/bin" />
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.7.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.7.0/lib" />
       </SOURCES>
       <excluded>
-        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.7/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.7.0/bin" />
       </excluded>
     </library>
-    <library name="xcodeproj (v1.7.0, ruby-2.3.3-p222) [gem]" type="rubylib">
+    <library name="xcodeproj (v1.7.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
