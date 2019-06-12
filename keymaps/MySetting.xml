@@ -1,8 +1,4 @@
 <keymap version="1" name="MySetting" parent="Mac OS X 10.5+">
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
-    <mouse-shortcut keystroke="button4" />
-  </action>
   <action id="BaseOnThisFunction" />
   <action id="Debug" />
   <action id="DecrementWindowHeight" />
@@ -34,10 +30,6 @@
     <keyboard-shortcut first-keystroke="shift meta home" />
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
-    <mouse-shortcut keystroke="button5" />
-  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta escape" />
@@ -51,8 +43,8 @@
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
-    <keyboard-shortcut first-keystroke="meta alt right" />
-    <keyboard-shortcut first-keystroke="meta alt left" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
