@@ -43,8 +43,8 @@
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
-    <keyboard-shortcut first-keystroke="ctrl meta right" />
-    <keyboard-shortcut first-keystroke="ctrl meta left" />
+    <keyboard-shortcut first-keystroke="ctrl meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl meta open_bracket" />
   </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
