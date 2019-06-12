@@ -1,4 +1,8 @@
 <keymap version="1" name="MySetting" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="BaseOnThisFunction" />
   <action id="Debug" />
   <action id="DecrementWindowHeight" />
@@ -30,6 +34,10 @@
     <keyboard-shortcut first-keystroke="shift meta home" />
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta escape" />
@@ -41,6 +49,11 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift ctrl meta up" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
@@ -49,12 +62,14 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt tab" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
