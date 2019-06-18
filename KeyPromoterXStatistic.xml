@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'sparkle-cspf [bootRun]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'sparkle-cspf [bootRun]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'sparkle-csservice [bootRun]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
