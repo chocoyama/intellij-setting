@@ -41,6 +41,11 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift ctrl meta up" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl meta open_bracket" />
+  </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
@@ -49,12 +54,14 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt tab" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
